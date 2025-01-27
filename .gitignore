@@ -1,0 +1,6 @@
+# Build files 
+cmake-build-debug/ 
+.idea/ 
+*.o 
+*.exe 
+data/*.txt 
