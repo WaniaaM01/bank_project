@@ -1,0 +1,3 @@
+5001 Tech Corp 100 Business Ave 12345 comp123 50000.00 approved
+5002 Trade LLC 200 Market St 67890 comp456 75000.00 approved
+5003 New Start Inc 300 Start St 11111 comp789 0.00 pending
